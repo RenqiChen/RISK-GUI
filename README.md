@@ -20,7 +20,7 @@ bash run.sh
 
 ## Contact
 
-If you have any questions, please  contact at [chenrenqi.crq@ant-intl.com](mailto:chenrenqi.crq@ant-intl.com).
+If you have any questions, please  contact at [rqchen23@m.fudan.edu.cn](mailto:rqchen23@m.fudan.edu.cn).
 
 ## Acknowledgements
 
